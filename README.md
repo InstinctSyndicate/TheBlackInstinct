@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TheBlackInstinct
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @TheBlackInstinct aka Instinct
+- 👀 I’m interested in everything tech related
+- 🌱 I’m currently learning programming in Python and Kotlin. Also learning more about crypto and blockchain tech
+
+- 📫 How to reach me? Twitter and email (pathakayush@protonmail.com)
 
 <!---
 TheBlackInstinct/TheBlackInstinct is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
